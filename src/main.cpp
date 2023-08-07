@@ -1,6 +1,7 @@
+#include "common.h"
 #include <stdio.h>
 
 int main() {
-    printf("Hello World!\n");
+    spdlog::info("Hello World!");
     return 0;
 }
