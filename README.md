@@ -1,4 +1,4 @@
-# Quantum Compiler
+# C++ Program Template
 
 ## Environment
 
@@ -16,5 +16,5 @@ cmake --build .
 
 ### Run
 ```
-./bin/quantumcompiler
+./bin/main
 ```
